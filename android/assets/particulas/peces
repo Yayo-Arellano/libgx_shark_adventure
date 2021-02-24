@@ -27,8 +27,10 @@ scalingCount: 1
 scaling0: 1.0
 timelineCount: 1
 timeline0: 0.0
+independent: false
 - Life Offset - 
 active: false
+independent: false
 - X Offset - 
 active: false
 - Y Offset - 
@@ -55,7 +57,7 @@ scalingCount: 1
 scaling0: 1.0
 timelineCount: 1
 timeline0: 0.0
-- Scale - 
+- X Scale - 
 lowMin: 0.0
 lowMax: 0.0
 highMin: 0.25
@@ -65,6 +67,8 @@ scalingCount: 1
 scaling0: 1.0
 timelineCount: 1
 timeline0: 0.0
+- Y Scale - 
+active: false
 - Velocity - 
 active: true
 lowMin: 0.0
@@ -107,8 +111,10 @@ continuous: true
 aligned: true
 additive: false
 behind: false
-- Image Path -
-/Users/Yayo/Downloads/graphicriver-6807369-shark-game-assets/PNG/Fish/SmallFishGreen.png
+premultipliedAlpha: false
+spriteMode: single
+- Image Paths -
+/Users/yayo/Tiburon/Images/SmallFishGreen.png
 
 
 Rojos
@@ -140,8 +146,10 @@ scalingCount: 1
 scaling0: 1.0
 timelineCount: 1
 timeline0: 0.0
+independent: false
 - Life Offset - 
 active: false
+independent: false
 - X Offset - 
 active: false
 - Y Offset - 
@@ -168,7 +176,7 @@ scalingCount: 1
 scaling0: 1.0
 timelineCount: 1
 timeline0: 0.0
-- Scale - 
+- X Scale - 
 lowMin: 0.0
 lowMax: 0.0
 highMin: 0.25
@@ -178,6 +186,8 @@ scalingCount: 1
 scaling0: 1.0
 timelineCount: 1
 timeline0: 0.0
+- Y Scale - 
+active: false
 - Velocity - 
 active: true
 lowMin: 0.0
@@ -220,8 +230,10 @@ continuous: true
 aligned: false
 additive: false
 behind: false
-- Image Path -
-/Users/Yayo/Dropbox/Tiarsoft/Tiburon/Images/SmallFishRed.png
+premultipliedAlpha: false
+spriteMode: single
+- Image Paths -
+/Users/yayo/Tiburon/Images/SmallFishRed.png
 
 
 Amarillos
@@ -253,8 +265,10 @@ scalingCount: 1
 scaling0: 1.0
 timelineCount: 1
 timeline0: 0.0
+independent: false
 - Life Offset - 
 active: false
+independent: false
 - X Offset - 
 active: false
 - Y Offset - 
@@ -281,7 +295,7 @@ scalingCount: 1
 scaling0: 1.0
 timelineCount: 1
 timeline0: 0.0
-- Scale - 
+- X Scale - 
 lowMin: 0.0
 lowMax: 0.0
 highMin: 0.25
@@ -291,6 +305,8 @@ scalingCount: 1
 scaling0: 1.0
 timelineCount: 1
 timeline0: 0.0
+- Y Scale - 
+active: false
 - Velocity - 
 active: true
 lowMin: 0.0
@@ -333,5 +349,8 @@ continuous: true
 aligned: false
 additive: false
 behind: false
-- Image Path -
-/Users/Yayo/Dropbox/Tiarsoft/Tiburon/Images/SmallFishYellow.png
+premultipliedAlpha: false
+spriteMode: single
+- Image Paths -
+/Users/yayo/Tiburon/Images/SmallFishYellow.png
+

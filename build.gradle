@@ -10,11 +10,9 @@ buildscript {
     }
     dependencies {
         classpath 'org.wisepersist:gwt-gradle-plugin:1.0.13'
-        classpath 'org.gretty:gretty:3.0.2'
+        classpath "gradle.plugin.org.gretty:gretty:3.0.3"
         classpath 'com.android.tools.build:gradle:3.5.4'
         classpath 'com.mobidevelop.robovm:robovm-gradle-plugin:2.3.12'
-        
-
     }
 }
 
@@ -38,6 +36,7 @@ allprojects {
         google()
         maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
         maven { url "https://oss.sonatype.org/content/repositories/releases/" }
+        maven { url "https://plugins.gradle.org/m2/" }
     }
 }
 
