@@ -13,5 +13,5 @@ Download assets:
 
 # Screenshots
 
-![Screenshot1](https://github.com/Yayo-Arellano/libgx_shark_adventure/blob/master/screenshots/sokoban1.png?raw=true)
-![Screenshot2](https://github.com/Yayo-Arellano/libgx_shark_adventure/blob/master/screenshots/sokoban2.png?raw=true)
+![Screenshot1](https://github.com/Yayo-Arellano/libgx_shark_adventure/blob/master/screenshots/image1.png?raw=true)
+![Screenshot2](https://github.com/Yayo-Arellano/libgx_shark_adventure/blob/master/screenshots/image2.png?raw=true)
