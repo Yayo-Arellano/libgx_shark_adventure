@@ -1,4 +1,4 @@
-# LibGDX Sokoban
+# LibGDX Shark adventure
 
 [Try the game in your Browser](https://yayo-arellano.github.io/libgx_shark_adventure/)
 
